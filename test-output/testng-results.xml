@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25259" started-at="2018-03-09T03:49:32Z" finished-at="2018-03-09T03:49:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25259" started-at="2018-03-09T03:49:32Z" finished-at="2018-03-09T03:49:57Z">
+      <class name="com.freecrm.qa.tests.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.qa.tests.LoginPageTest@224edc67]" name="setup" is-config="true" duration-ms="18097" started-at="2018-03-08T22:49:32Z" finished-at="2018-03-08T22:49:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginApplicationTest()[pri:0, instance:com.freecrm.qa.tests.LoginPageTest@224edc67]" name="LoginApplicationTest" duration-ms="6418" started-at="2018-03-08T22:49:50Z" finished-at="2018-03-08T22:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApplicationTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.freecrm.qa.tests.LoginPageTest@224edc67]" name="teardown" is-config="true" duration-ms="687" started-at="2018-03-08T22:49:56Z" finished-at="2018-03-08T22:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.freecrm.qa.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
